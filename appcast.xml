@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>DeskRest</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Sun, 06 Oct 2024 14:28:42 +0200</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.0/DeskRest.dmg" length="5618047" type="application/octet-stream" sparkle:edSignature="3yS62KoghrUsjWptslANpWhRBmjF2nvyHgjZ8HyFo4fLEh7/q2z1DklAj+9bXLppSZ9h8OVlPuFY9xzEwgJhCg=="/>
+        </item>
+    </channel>
+</rss>
