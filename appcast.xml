@@ -3,12 +3,12 @@
     <channel>
         <title>DeskRest</title>
         <item>
-            <title>1.2.0</title>
-            <pubDate>Sun, 03 Nov 2024 11:57:43 +0100</pubDate>
-            <sparkle:version>30</sparkle:version>
-            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <title>1.2.1</title>
+            <pubDate>Mon, 25 Nov 2024 07:04:35 +0100</pubDate>
+            <sparkle:version>32</sparkle:version>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.2.0/DeskRest.v1.2.0.dmg" length="6050411" type="application/octet-stream" sparkle:edSignature="DiuKPF73k2mZ5Pa2tUoqpdcqWLA1boWueXD2ysr5mr7PpOXSQthS4Kmhi6dGhnqDO7zTEWY/uY/s/wsI1VR9CQ=="/>
+            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.2.1/DeskRest.v1.2.1.dmg" length="6054808" type="application/octet-stream" sparkle:edSignature="9UFzmiOqk4gFVUko9p6KGv8jiH3vUWPtGk+LBIJCAODmHmKUZuHWSwcJ5GIiP3b+/PgSLwRkxNJI8iuxl/f8CA=="/>
         </item>
     </channel>
 </rss>
