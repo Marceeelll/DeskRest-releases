@@ -8,6 +8,21 @@
             <sparkle:version>35</sparkle:version>
             <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+Features
+* Added video playback detection system to improve break timing
+
+Improvements
+* Enhanced break duration logic for long and short breaks
+* Updated deeplink system
+* Integrated support email functionality in Membership screen
+
+Bugfixes
+* Fixed Working Hours automatic start after midnight
+* Resolved license management screen error message display
+* Corrected subscription state update after deactivation
+* Corrected typo in Autopause During Meetings
+]]></description>
             <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.3.0/DeskRest.v1.3.0-35.dmg" length="6083720" type="application/octet-stream" sparkle:edSignature="jD07b04e/2yA2ykaGHr8mNr2YjghitKgxpF8Ql+MAA9YNeTveKdaOKI48ltnx1Nl+p1NJq3OetB42iJHGLvCAw=="/>
         </item>
     </channel>
