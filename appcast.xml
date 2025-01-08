@@ -3,19 +3,12 @@
     <channel>
         <title>DeskRest</title>
         <item>
-            <title>1.3.1</title>
-            <pubDate>Wed, 18 Dec 2024 19:44:15 +0100</pubDate>
-            <sparkle:version>38</sparkle:version>
-            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
+            <title>1.3.2</title>
+            <pubDate>Tue, 07 Jan 2025 07:50:01 +0100</pubDate>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                <h2>Improvements</h2>
-                <ul>
-                <li>Significantly improved application launch speed</li>
-                <li>Enhanced camera usage detection</li>
-                </ul>
-            ]]></description>
-            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.3.1/DeskRest.v1.3.1.dmg" length="6035642" type="application/octet-stream" sparkle:edSignature="fvcgXeof7i9FW37nI6d3SsB8UPrMhdVWy30kwRkcgVgIPecOmiyUVaSG/sOtcsvb/a5A0mU4eoipKLKqxSMLCA=="/>
+            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.3.2/DeskRest.v1.3.2.dmg" length="6036372" type="application/octet-stream" sparkle:edSignature="aERrou0f2kdxYfQQUQumi223wboX3ithvAfjZ96DmGBUJlPy2JQW5muHAfZGTMY8HSrRbiIeBVI57LkKqYHjDA=="/>
         </item>
     </channel>
 </rss>
