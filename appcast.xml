@@ -3,12 +3,18 @@
     <channel>
         <title>DeskRest</title>
         <item>
-            <title>1.5.1</title>
-            <pubDate>Tue, 25 Feb 2025 19:17:08 +0100</pubDate>
-            <sparkle:version>44</sparkle:version>
-            <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
+            <title>1.5.2</title>
+            <pubDate>Sat, 01 Mar 2025 09:55:23 +0100</pubDate>
+            <sparkle:version>45</sparkle:version>
+            <sparkle:shortVersionString>1.5.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.5.1/DeskRest.v1.5.1-44.dmg" length="6185741" type="application/octet-stream" sparkle:edSignature="KiPGNLajDJ7C+u7pW3+NSyoGHaOBiPNJ812bwEY/lOChcZ2CtpsZx34z1kCniwemywtAIj1an5hmdC6Cb4ntCQ=="/>
+            <description><![CDATA[
+                <h2>Bugfixes</h2>
+                <ul>
+                <li>Fixed issue when deleting an exercise</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.5.2/DeskRest.v1.5.2-45.dmg" length="6184463" type="application/octet-stream" sparkle:edSignature="i+4TROVV3JkUb13RdJG794Qr19DQcUbot5xrqZDZTlSS9KCUSu8m0OhmT0+oCZ5tpcF7+jbHaCOEooBphnnkCg=="/>
         </item>
     </channel>
 </rss>
