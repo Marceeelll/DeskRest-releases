@@ -3,35 +3,17 @@
     <channel>
         <title>DeskRest</title>
         <item>
-            <title>1.6.0</title>
-            <pubDate>Fri, 14 Mar 2025 19:50:58 +0100</pubDate>
-            <sparkle:version>46</sparkle:version>
-            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
+            <title>1.6.1</title>
+            <pubDate>Mon, 14 Apr 2025 07:16:42 +0200</pubDate>
+            <sparkle:version>47</sparkle:version>
+            <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.6.1/DeskRest.v1.6.1-47.dmg" length="6396162" type="application/octet-stream" sparkle:edSignature="IAzj0NnkSbAbYuaLOb35KnMuRMYPynvGx4dOpZw6X4SAu7SuhyuGZo671Axgo/+9taGvS3k+sT5dUIJPmV0IDA=="/>
             <description><![CDATA[
-<h3>Features</h3>
-<ul>
-  <li>Added customizable sound volume for break sound effects</li>
-  <li>Added option to configure notification display duration</li>
-</ul>
-<h3>Improvements</h3>
-<ul>
-  <li>Added success message after license key entry</li>
-  <li>Removed BETA label from DeskRest Intelligence feature (video detection)</li>
-  <li>Enhanced break screen with improved animations</li>
-  <li>Added fade out animation for notifications</li>
-  <li>Added fade in animation for flash reminders</li>
-  <li>Improved fade in for break screen components</li>
-  <li>Added animation for the skip button state on the full break screen</li>
-</ul>
-<h3>Bugfix</h3>
-<ul>
-  <li>Fixed issue where double-tapping Esc to skip breaks was not working reliably</li>
-  <li>Fixed issue where video detection state appeared during meetings</li>
-  <li>Fixed issue where flash reminders appeared while watching videos</li>
-</ul>
+### Bugfix
+* Fixed issue where notification settings weren't being saved
+* Fixed bug where pause time would reset after computer returns from standby mode
             ]]></description>
-            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.6.0/DeskRest.v1.6.0-46.dmg" length="6235884" type="application/octet-stream" sparkle:edSignature="rM9pYS2KA9yXwEJyZhzUAuR7oKauca+39cNpUSxAACdrsSjyWfgWBzFuy3AdPVA1ir1pSxHVb9p1vC58m0kXBA=="/>
         </item>
     </channel>
 </rss>
