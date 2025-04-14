@@ -10,9 +10,11 @@
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.6.1/DeskRest.v1.6.1-47.dmg" length="6396162" type="application/octet-stream" sparkle:edSignature="IAzj0NnkSbAbYuaLOb35KnMuRMYPynvGx4dOpZw6X4SAu7SuhyuGZo671Axgo/+9taGvS3k+sT5dUIJPmV0IDA=="/>
             <description><![CDATA[
-### Bugfix
-* Fixed issue where notification settings weren't being saved
-* Fixed bug where pause time would reset after computer returns from standby mode
+<h3>Bugfix</h3>
+<ul>
+  <li>Fixed issue where notification settings weren't being saved</li>
+  <li>Fixed bug where pause time would reset after computer returns from standby mode</li>
+</ul>
             ]]></description>
         </item>
     </channel>
