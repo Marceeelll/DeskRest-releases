@@ -3,17 +3,21 @@
     <channel>
         <title>DeskRest</title>
         <item>
-            <title>1.6.1</title>
-            <pubDate>Mon, 14 Apr 2025 07:16:42 +0200</pubDate>
-            <sparkle:version>47</sparkle:version>
-            <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
+            <title>1.6.3</title>
+            <pubDate>Sun, 11 May 2025 08:59:30 +0200</pubDate>
+            <sparkle:version>49</sparkle:version>
+            <sparkle:shortVersionString>1.6.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.6.1/DeskRest.v1.6.1-47.dmg" length="6396162" type="application/octet-stream" sparkle:edSignature="IAzj0NnkSbAbYuaLOb35KnMuRMYPynvGx4dOpZw6X4SAu7SuhyuGZo671Axgo/+9taGvS3k+sT5dUIJPmV0IDA=="/>
-            <description><![CDATA[
+            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.6.3/DeskRest.v1.6.3-49.dmg" length="6610208" type="application/octet-stream" sparkle:edSignature="aDrdCEA9Z0OwErXux12p1UkO2jxx2AhwxhwQElbUmGSyNLJUByafBP/hpLeUimTX71rAy6wQY++9L4W5t91NAQ=="/>
+                        <description><![CDATA[
+<h3>Improvements</h3>
+<ul>
+  <li>Display 24-hour clock format on break screen based on system settings</li>
+</ul>
 <h3>Bugfix</h3>
 <ul>
-  <li>Fixed issue where notification settings weren't being saved</li>
-  <li>Fixed bug where pause time would reset after computer returns from standby mode</li>
+  <li>Fixed streak chart being cut off on full break screen when first break was skipped</li>
+  <li>Fixed break window frame not recalculating after adding additional monitor</li>
 </ul>
             ]]></description>
         </item>
