@@ -3,21 +3,17 @@
     <channel>
         <title>DeskRest</title>
         <item>
-            <title>1.6.3</title>
-            <pubDate>Sun, 11 May 2025 08:59:30 +0200</pubDate>
-            <sparkle:version>49</sparkle:version>
-            <sparkle:shortVersionString>1.6.3</sparkle:shortVersionString>
+            <title>1.6.4</title>
+            <pubDate>Sun, 25 May 2025 07:29:09 +0200</pubDate>
+            <sparkle:version>50</sparkle:version>
+            <sparkle:shortVersionString>1.6.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.6.3/DeskRest.v1.6.3-49.dmg" length="6610208" type="application/octet-stream" sparkle:edSignature="aDrdCEA9Z0OwErXux12p1UkO2jxx2AhwxhwQElbUmGSyNLJUByafBP/hpLeUimTX71rAy6wQY++9L4W5t91NAQ=="/>
-                        <description><![CDATA[
+            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.6.4/DeskRest.v1.6.4-50.dmg" length="6610783" type="application/octet-stream" sparkle:edSignature="rPSkyWp98vMCDgG/Io1Xuknlekx0lG9Mx38gPyL6Pq5kGOeZ9TWhjuDL+CuXzCH9i+BxD/dgy2nkqFoEVXTrCA=="/>
+            <description><![CDATA[
 <h3>Improvements</h3>
 <ul>
-  <li>Display 24-hour clock format on break screen based on system settings</li>
-</ul>
-<h3>Bugfix</h3>
-<ul>
-  <li>Fixed streak chart being cut off on full break screen when first break was skipped</li>
-  <li>Fixed break window frame not recalculating after adding additional monitor</li>
+  <li>Notification: Added Skip button</li>
+  <li>Notifications: Added display of remaining notification duration</li>
 </ul>
             ]]></description>
         </item>
