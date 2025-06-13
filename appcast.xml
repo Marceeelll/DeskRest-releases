@@ -3,23 +3,20 @@
     <channel>
         <title>DeskRest</title>
         <item>
-            <title>1.7.0</title>
-            <pubDate>Sun, 08 Jun 2025 08:26:02 +0200</pubDate>
-            <sparkle:version>51</sparkle:version>
-            <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+            <title>1.8.0</title>
+            <pubDate>Thu, 12 Jun 2025 22:25:35 +0200</pubDate>
+            <sparkle:version>52</sparkle:version>
+            <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.7.0/DeskRest.v1.7.0-51.dmg" length="7083899" type="application/octet-stream" sparkle:edSignature="CuwhsQRlt6nnMocXoaQN2E0rVifxHcTui0XWPBm0T08hFwjNKUGTT6TfnxWjWCG0LbEkR2OF4Why/KZsDaujDg=="/>
-            <description><![CDATA[
+            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.8.0/DeskRest.v1.8.0-52.dmg" length="7135921" type="application/octet-stream" sparkle:edSignature="iEdZkLGpxs4SLlBLLJ0j871S9VD56W07+KnaXwtV5H78qvTvAnu0wnLuOcknkjd6tnJZ4WBXaG/TyhWEf6Z+BA=="/>
+                        <description><![CDATA[
 <h3>Features</h3>
 <ul>
-  <li>Break countdown display next to cursor</li>
-  <li>Block cmd + q during full screen break</li>
+  <li>Clock Out: Set your desired end-of-workday time and DeskRest will automatically lock your screen during that period to encourage work-life balance. Includes options to extend by +5 or +15 minutes or skip entirely when needed.</li>
 </ul>
 <h3>Improvements</h3>
 <ul>
-  <li>Notification: Option to hide delay + skip buttons in notification</li>
-  <li>Enhanced flash reminder performance</li>
-  <li>Show DeskRest in dock when settings are opened</li>
+  <li>Cursor break reminder can now be enabled independently from notifications</li>
 </ul>
 <p><a href="https://github.com/Marceeelll/DeskRest-releases/releases">View release preview on GitHub</a></p>
             ]]></description>
