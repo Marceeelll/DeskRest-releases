@@ -4,11 +4,11 @@
         <title>DeskRest</title>
         <item>
             <title>1.10.0</title>
-            <pubDate>Wed, 25 Jun 2025 07:04:08 +0200</pubDate>
+            <pubDate>Wed, 25 Jun 2025 22:12:11 +0200</pubDate>
             <sparkle:version>54</sparkle:version>
             <sparkle:shortVersionString>1.10.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.10.0/DeskRest.v1.10.0-54.dmg" length="7820412" type="application/octet-stream" sparkle:edSignature="PYp/9iij0sVRYXxx6nYHXmT723wtFWrwmq6DfKGuyF+YP7VinT6pyL7Cng5Mv8ABce+ZViDrFYj2A3EpXMo6Dg=="/>
+            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.10.0/DeskRest.v1.10.0-54.dmg" length="7820700" type="application/octet-stream" sparkle:edSignature="a7Z5sds6qdTxhSRANZq91I44z9SLpH0g6v0yOJHP4trFu4g0LGeEwoyLO1M8wwvga046YDlR70OuIGuet8ioDw=="/>
             <description><![CDATA[
 <h3>Features</h3>
 <ul>
