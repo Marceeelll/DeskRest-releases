@@ -3,23 +3,25 @@
     <channel>
         <title>DeskRest</title>
         <item>
-            <title>1.10.0</title>
-            <pubDate>Wed, 25 Jun 2025 07:04:08 +0200</pubDate>
-            <sparkle:version>54</sparkle:version>
-            <sparkle:shortVersionString>1.10.0</sparkle:shortVersionString>
+            <title>1.9.0</title>
+            <pubDate>Sat, 21 Jun 2025 15:56:56 +0200</pubDate>
+            <sparkle:version>53</sparkle:version>
+            <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.10.0/DeskRest.v1.10.0-54.dmg" length="7820412" type="application/octet-stream" sparkle:edSignature="PYp/9iij0sVRYXxx6nYHXmT723wtFWrwmq6DfKGuyF+YP7VinT6pyL7Cng5Mv8ABce+ZViDrFYj2A3EpXMo6Dg=="/>
-        </item>
-        <description><![CDATA[
+            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.9.0/DeskRest.v1.9.0-53.dmg" length="7755807" type="application/octet-stream" sparkle:edSignature="p+f6P2BLf/qu0q4XBfdfWif6LFV3T16Toj1cf5+LzE8ElaoC2QgXFtY9X/T/3pPXXSQDSKOZRELzZOH8YmaIDA=="/>
+            <description><![CDATA[
 <h3>Features</h3>
 <ul>
-  <li>Keyboard Shortcuts</li>
+  <li>Clock Out now includes a notepad for quickly jotting down thoughts</li>
+  <li>Search functionality added for exercises</li>
 </ul>
 <h3>Improvements</h3>
 <ul>
-  <li>Polished settings UI</li>
-  <li>Enhanced onboarding experience</li>
+  <li>Redesigned settings interface</li>
+  <li>Redesigned Clock Out screen</li>
 </ul>
+<p><a href="https://github.com/Marceeelll/DeskRest-releases/releases">View release preview on GitHub</a></p>
 ]]></description>
+        </item>
     </channel>
 </rss>
