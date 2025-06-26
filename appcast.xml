@@ -3,13 +3,14 @@
     <channel>
         <title>DeskRest</title>
         <item>
-            <title>1.10.0</title>
-            <pubDate>Wed, 25 Jun 2025 22:12:11 +0200</pubDate>
-            <sparkle:version>54</sparkle:version>
-            <sparkle:shortVersionString>1.10.0</sparkle:shortVersionString>
+            <title>1.10.1</title>
+            <pubDate>Thu, 26 Jun 2025 17:52:32 +0200</pubDate>
+            <sparkle:version>55</sparkle:version>
+            <sparkle:shortVersionString>1.10.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.10.0/DeskRest.v1.10.0-54.dmg" length="7820700" type="application/octet-stream" sparkle:edSignature="a7Z5sds6qdTxhSRANZq91I44z9SLpH0g6v0yOJHP4trFu4g0LGeEwoyLO1M8wwvga046YDlR70OuIGuet8ioDw=="/>
+            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.10.1/DeskRest.v1.10.1-55.dmg" length="7820815" type="application/octet-stream" sparkle:edSignature="rUkipoJN29xDnyMy8JytAtV7H842AHD8wMLc9WeVK49wfQA4k98w+9eMjWrKYmRpFlI+eN4YRpWH5SKVKjhkBA=="/>
             <description><![CDATA[
+            <p>We apologize for the update issue with version 1.10.0. This has been resolved in 1.10.1. Thanks for your feedback.</p>
 <h3>Features</h3>
 <ul>
   <li>Keyboard Shortcuts</li>
@@ -20,7 +21,7 @@
   <li>Enhanced onboarding experience</li>
 </ul>
 <p><a href="https://github.com/Marceeelll/DeskRest-releases/releases">View release preview on GitHub</a></p>
-]]></description>
+            ]]></description>
         </item>
     </channel>
 </rss>
