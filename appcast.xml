@@ -3,24 +3,19 @@
     <channel>
         <title>DeskRest</title>
         <item>
-            <title>1.10.1</title>
-            <pubDate>Thu, 26 Jun 2025 17:52:32 +0200</pubDate>
-            <sparkle:version>55</sparkle:version>
-            <sparkle:shortVersionString>1.10.1</sparkle:shortVersionString>
+            <title>1.11.0</title>
+            <pubDate>Wed, 09 Jul 2025 21:05:50 +0200</pubDate>
+            <sparkle:version>56</sparkle:version>
+            <sparkle:shortVersionString>1.11.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.10.1/DeskRest.v1.10.1-55.dmg" length="7820815" type="application/octet-stream" sparkle:edSignature="rUkipoJN29xDnyMy8JytAtV7H842AHD8wMLc9WeVK49wfQA4k98w+9eMjWrKYmRpFlI+eN4YRpWH5SKVKjhkBA=="/>
+            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.11.0/DeskRest.v1.11.0-56.dmg" length="7907105" type="application/octet-stream" sparkle:edSignature="f1Ie6A5iDp26KvGHP+U8xqr1oLJxt3NL3rA8pChtvUQZJtZTGZ909nWu0bdhEQAPglaTlrLeX0U7R92C0S3wAg=="/>
             <description><![CDATA[
-            <p>We apologize for the update issue with version 1.10.0. This has been resolved in 1.10.1. Thanks for your feedback.</p>
-<h3>Features</h3>
-<ul>
-  <li>Keyboard Shortcuts</li>
-</ul>
-<h3>Improvements</h3>
-<ul>
-  <li>Polished settings UI</li>
-  <li>Enhanced onboarding experience</li>
-</ul>
-<p><a href="https://github.com/Marceeelll/DeskRest-releases/releases">View release preview on GitHub</a></p>
+            <h3>Features</h3>
+            <ul>
+              <li>Siri Shortcuts</li>
+              <li>German localization: Full app interface now available in German</li>
+            </ul>
+            <p><a href="https://github.com/Marceeelll/DeskRest-releases/releases">View release preview on GitHub</a></p>
             ]]></description>
         </item>
     </channel>
