@@ -3,23 +3,23 @@
     <channel>
         <title>DeskRest</title>
         <item>
-            <title>1.12.0</title>
-            <pubDate>Mon, 28 Jul 2025 20:50:19 +0200</pubDate>
-            <sparkle:version>64</sparkle:version>
-            <sparkle:shortVersionString>1.12.0</sparkle:shortVersionString>
+            <title>1.12.1</title>
+            <pubDate>Tue, 12 Aug 2025 20:05:24 +0200</pubDate>
+            <sparkle:version>65</sparkle:version>
+            <sparkle:shortVersionString>1.12.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.12.0/DeskRest.v1.12.0-64.dmg" length="8314670" type="application/octet-stream" sparkle:edSignature="w90LCY/ZjOYZ3aMUy56ZiTQ/ItHg8xyaanzGuDfXQcWhbFws4L4Sd/p4/28RCB+1PH/YtM7hXx8nuhXZVi/JBg=="/>
+            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.12.1/DeskRest.v1.12.1-65.dmg" length="8302631" type="application/octet-stream" sparkle:edSignature="gF00B0Q23zP+wGfPgljlMNOrkUUIl6a+TNEJRp6Tybq0KullYzyQoyRLWRGUJcuOfl8EaFfOGepBwLA5/3C4DQ=="/>
             <description><![CDATA[
-<h3>Features</h3>
+<h3>Improvements</h3>
 <ul>
-  <li><strong>Statistics Dashboard</strong>: Complete activity calendar showing your entire year of break habits at a glance with color-coded days (green = excellent, yellow = good progress, orange = needs improvement) and detailed metrics including skip rates, streaks, and break distribution</li>
+  <li>Updated app icon to match regular size</li>
 </ul>
 <h3>Bugfix</h3>
 <ul>
-  <li>Fixed German translation issues</li>
-  <li>Fixed break volume defaulting to 100% after app installation - now defaults to 50%</li>
+  <li>Fixed break history reset to properly restart with short breaks the next day</li>
+  <li>Fixed typo in the onboarding process</li>
 </ul>
-<p><a href="https://deskrest.app/blog/deskrest-1-12-0-wellness-habit-tracking-statistics/">Read our blog post</a></p>
+<p><a href="https://github.com/Marceeelll/DeskRest-releases/releases">View release preview on GitHub</a></p>
 ]]></description>
         </item>
     </channel>
