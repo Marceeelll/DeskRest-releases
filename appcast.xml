@@ -3,23 +3,21 @@
     <channel>
         <title>DeskRest</title>
         <item>
-            <title>1.12.1</title>
-            <pubDate>Tue, 12 Aug 2025 20:05:24 +0200</pubDate>
-            <sparkle:version>65</sparkle:version>
-            <sparkle:shortVersionString>1.12.1</sparkle:shortVersionString>
+            <title>1.12.2</title>
+            <pubDate>Thu, 28 Aug 2025 21:06:03 +0200</pubDate>
+            <sparkle:version>75</sparkle:version>
+            <sparkle:shortVersionString>1.12.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.12.1/DeskRest.v1.12.1-65.dmg" length="8302631" type="application/octet-stream" sparkle:edSignature="gF00B0Q23zP+wGfPgljlMNOrkUUIl6a+TNEJRp6Tybq0KullYzyQoyRLWRGUJcuOfl8EaFfOGepBwLA5/3C4DQ=="/>
+            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.12.2/DeskRest.v1.12.2-75.dmg" length="8576542" type="application/octet-stream" sparkle:edSignature="PZ8fE0Xc/5y3cI5ebVPcuMxus43rvuf+f/uUo4/XKoF3q9JsJoFTj4uGhz9xy+pkacSOtiHJKtCWVdMZbtT4CQ=="/>
             <description><![CDATA[
 <h3>Improvements</h3>
 <ul>
-  <li>Updated app icon to match regular size</li>
+  <li>Enhanced app startup performance</li>
 </ul>
 <h3>Bugfix</h3>
 <ul>
-  <li>Fixed break history reset to properly restart with short breaks the next day</li>
-  <li>Fixed typo in the onboarding process</li>
+  <li>Fixed localization issues</li>
 </ul>
-<p><a href="https://github.com/Marceeelll/DeskRest-releases/releases">View release preview on GitHub</a></p>
 ]]></description>
         </item>
     </channel>
