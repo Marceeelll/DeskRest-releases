@@ -3,20 +3,26 @@
     <channel>
         <title>DeskRest</title>
         <item>
-            <title>1.12.2</title>
-            <pubDate>Thu, 28 Aug 2025 21:06:03 +0200</pubDate>
-            <sparkle:version>75</sparkle:version>
-            <sparkle:shortVersionString>1.12.2</sparkle:shortVersionString>
+            <title>1.13.0</title>
+            <pubDate>Sun, 31 Aug 2025 10:17:51 +0200</pubDate>
+            <sparkle:version>79</sparkle:version>
+            <sparkle:shortVersionString>1.13.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.12.2/DeskRest.v1.12.2-75.dmg" length="8576542" type="application/octet-stream" sparkle:edSignature="PZ8fE0Xc/5y3cI5ebVPcuMxus43rvuf+f/uUo4/XKoF3q9JsJoFTj4uGhz9xy+pkacSOtiHJKtCWVdMZbtT4CQ=="/>
+            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.13.0/DeskRest.v1.13.0-79.dmg" length="8629117" type="application/octet-stream" sparkle:edSignature="aBAZbTncQvJyPjXwd8UC/5j/kCY835iX7OuPXsYdnXoDWdSyFPJRpzVRiw6xfY/iwFQSsOaPsNA/T2JV+uJJCw=="/>
             <description><![CDATA[
+<h3>Features</h3>
+<ul>
+  <li>Added last break indicator: You can now see when your last break was taken, both in notifications and the menu bar</li>
+</ul>
 <h3>Improvements</h3>
 <ul>
-  <li>Enhanced app startup performance</li>
+  <li>Enhanced meeting detection settings: Camera and microphone detection can now be configured independently for more precise control</li>
 </ul>
 <h3>Bugfix</h3>
 <ul>
-  <li>Fixed localization issues</li>
+  <li>Fixed website analytics not properly tracking user events</li>
+  <li>Resolved license key input issues caused by line breaks</li>
+  <li>Fixed rare crash on the statistics screen related to data storage</li>
 </ul>
 ]]></description>
         </item>
