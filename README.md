@@ -26,7 +26,7 @@ For detailed information about each release, including new features, improvement
 
 ## Installation - Easy 3 min setup
 
-1. Go to the [DeskRest.app](https://www.deskrest.app/) page
+1. Go to the [DeskRest.com](https://www.deskrest.com/) page
 2. Quickly download and install DeskRest on your Mac
 3. Easily configure DeskRest to align with your daily routines right from startup, with full control over each setting to match your work style.
 4. Ready to Go!
@@ -39,7 +39,7 @@ For detailed information about each release, including new features, improvement
 
 We value your input! If you have any feedback, feature requests, or need support:
 
-- Visit our [official website](https://deskrest.app/feedback)
+- Visit our [official website](https://deskrest.com/feedback)
 
 ## Stay Connected
 
