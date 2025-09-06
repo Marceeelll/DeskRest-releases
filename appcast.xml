@@ -3,26 +3,23 @@
     <channel>
         <title>DeskRest</title>
         <item>
-            <title>1.13.0</title>
-            <pubDate>Sun, 31 Aug 2025 10:17:51 +0200</pubDate>
-            <sparkle:version>79</sparkle:version>
-            <sparkle:shortVersionString>1.13.0</sparkle:shortVersionString>
+            <title>1.13.1</title>
+            <pubDate>Sat, 06 Sep 2025 08:19:45 +0200</pubDate>
+            <sparkle:version>82</sparkle:version>
+            <sparkle:shortVersionString>1.13.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.13.0/DeskRest.v1.13.0-79.dmg" length="8629117" type="application/octet-stream" sparkle:edSignature="aBAZbTncQvJyPjXwd8UC/5j/kCY835iX7OuPXsYdnXoDWdSyFPJRpzVRiw6xfY/iwFQSsOaPsNA/T2JV+uJJCw=="/>
+            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.13.1/DeskRest.v1.13.1-82.dmg" length="8665943" type="application/octet-stream" sparkle:edSignature="lR3ALWWsRbPLNm3qpgHK9lJ1BN4p3klP2lLaUkYLM+GZH4YL/2fPhZT5L+vkPp1gStQjcmcaPSuVlF/wkostBw=="/>
             <description><![CDATA[
-<h3>Features</h3>
+<h3>Bugfix</h3>
 <ul>
-  <li>Added last break indicator: You can now see when your last break was taken, both in notifications and the menu bar</li>
+  <li>Fixed meeting detection to exclude output devices that were incorrectly included</li>
 </ul>
 <h3>Improvements</h3>
 <ul>
-  <li>Enhanced meeting detection settings: Camera and microphone detection can now be configured independently for more precise control</li>
-</ul>
-<h3>Bugfix</h3>
-<ul>
-  <li>Fixed website analytics not properly tracking user events</li>
-  <li>Resolved license key input issues caused by line breaks</li>
-  <li>Fixed rare crash on the statistics screen related to data storage</li>
+  <li>Added play button to sound volume slider in sound settings for audio preview</li>
+  <li>Added validation message when saving exercises with incomplete fields</li>
+  <li>Moved focus settings to Smart Settings section</li>
+  <li>Enhanced break screen animations</li>
 </ul>
 ]]></description>
         </item>
