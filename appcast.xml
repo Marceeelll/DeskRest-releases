@@ -3,24 +3,18 @@
     <channel>
         <title>DeskRest</title>
         <item>
-            <title>1.13.1</title>
-            <pubDate>Sat, 06 Sep 2025 08:19:45 +0200</pubDate>
-            <sparkle:version>82</sparkle:version>
-            <sparkle:shortVersionString>1.13.1</sparkle:shortVersionString>
+            <title>1.13.2</title>
+            <pubDate>Sat, 13 Sep 2025 08:08:34 +0200</pubDate>
+            <sparkle:version>84</sparkle:version>
+            <sparkle:shortVersionString>1.13.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.13.1/DeskRest.v1.13.1-82.dmg" length="8665943" type="application/octet-stream" sparkle:edSignature="lR3ALWWsRbPLNm3qpgHK9lJ1BN4p3klP2lLaUkYLM+GZH4YL/2fPhZT5L+vkPp1gStQjcmcaPSuVlF/wkostBw=="/>
+            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.13.2/DeskRest.v1.13.2-84.dmg" length="8673604" type="application/octet-stream" sparkle:edSignature="+moTsq3JY3vvKacLbExFr576mFX/c+7tXVdO2l2J71Qf+vjiFBJHlQdfb53dbTeSIBAx4KtFDzR0qWhwCgBhAw=="/>
             <description><![CDATA[
-<h3>Bugfix</h3>
-<ul>
-  <li>Fixed meeting detection to exclude output devices that were incorrectly included</li>
-</ul>
 <h3>Improvements</h3>
 <ul>
-  <li>Added play button to sound volume slider in sound settings for audio preview</li>
-  <li>Added validation message when saving exercises with incomplete fields</li>
-  <li>Moved focus settings to Smart Settings section</li>
-  <li>Enhanced break screen animations</li>
+  <li>Added option to delete entire break history</li>
 </ul>
+<p><a href="https://github.com/Marceeelll/DeskRest-releases/releases">View release preview on GitHub</a></p>
 ]]></description>
         </item>
     </channel>
