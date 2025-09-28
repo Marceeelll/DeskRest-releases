@@ -3,18 +3,21 @@
     <channel>
         <title>DeskRest</title>
         <item>
-            <title>1.13.4</title>
-            <pubDate>Wed, 24 Sep 2025 06:20:33 +0200</pubDate>
-            <sparkle:version>89</sparkle:version>
-            <sparkle:shortVersionString>1.13.4</sparkle:shortVersionString>
+            <title>1.13.5</title>
+            <pubDate>Sat, 27 Sep 2025 08:53:29 +0200</pubDate>
+            <sparkle:version>92</sparkle:version>
+            <sparkle:shortVersionString>1.13.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.13.4/DeskRest.v1.13.4-89.dmg" length="8676450" type="application/octet-stream" sparkle:edSignature="teFw8lPzN1tMOCQCcxNXWwc41rjZsJ0EW3z6Dj2/J0KmBtTtK40vS6UdzgbVCuwOuids/vv4qhjmJ4AfEJCtDw=="/>
+            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.13.5/DeskRest.v1.13.5-92.dmg" length="8696943" type="application/octet-stream" sparkle:edSignature="z3ZIMgrRH3ntgyZ7LpzoqBZDVX5FkRUxTl+shmXqupYXIIivzelEPC15+dFhKYw/darFPyOsKHYbWjcy/X4nDQ=="/>
             <description><![CDATA[
-<h3>Bugfix</h3>
+<h3>Features</h3>
 <ul>
-  <li>Temporarily reverted video detection to version 1.13.2 due to false-positive issues introduced in 1.13.3</li>
+  <li>Video detection notification</li>
 </ul>
-<p>We apologize for the inconvenience and thank you for your quick feedback regarding the video detection issues in version 1.13.3.</p>
+<h3>Improvements</h3>
+<ul>
+  <li>Improved video detection system</li>
+</ul>
 <p><a href="https://github.com/Marceeelll/DeskRest-releases/releases">View release preview on GitHub</a></p>
 ]]></description>
         </item>
