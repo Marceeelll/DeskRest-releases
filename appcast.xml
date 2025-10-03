@@ -3,20 +3,30 @@
     <channel>
         <title>DeskRest</title>
         <item>
-            <title>1.13.5</title>
-            <pubDate>Sat, 27 Sep 2025 08:53:29 +0200</pubDate>
-            <sparkle:version>92</sparkle:version>
-            <sparkle:shortVersionString>1.13.5</sparkle:shortVersionString>
+            <title>1.13.6</title>
+            <pubDate>Fri, 03 Oct 2025 14:59:56 +0200</pubDate>
+            <sparkle:version>100</sparkle:version>
+            <sparkle:shortVersionString>1.13.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.13.5/DeskRest.v1.13.5-92.dmg" length="8696943" type="application/octet-stream" sparkle:edSignature="z3ZIMgrRH3ntgyZ7LpzoqBZDVX5FkRUxTl+shmXqupYXIIivzelEPC15+dFhKYw/darFPyOsKHYbWjcy/X4nDQ=="/>
+            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.13.6/DeskRest.v1.13.6-100.dmg" length="8754793" type="application/octet-stream" sparkle:edSignature="yw+wTfQzX1FQMRU8v+3yDZaBlCttFP5uXxvkhFVJRvZoyWIzH86fMYEFEqbgEp4xUjFjCKcCXSa6jcg4OeuBAQ=="/>
             <description><![CDATA[
 <h3>Features</h3>
 <ul>
-  <li>Video detection notification</li>
+  <li>Quick break controls: Start short and long breaks directly from the menu bar</li>
 </ul>
 <h3>Improvements</h3>
 <ul>
-  <li>Improved video detection system</li>
+  <li>Enhanced video playback detection with fewer false positives in Google Chrome and other browsers</li>
+  <li>Improved menu bar navigation</li>
+  <li>Redesigned Smart Breaks section in Settings UI</li>
+  <li>Notification settings reorganized and moved to respective Break and Clock Out sections in Settings</li>
+</ul>
+<h3>Bugfixes</h3>
+<ul>
+  <li>Fixed flash reminder appearing when timer is paused</li>
+  <li>Fixed crash related to video detection</li>
+  <li>Fixed microphone detection for devices that serve as both input and output</li>
+  <li>Fixed menu bar visibility issue when only "Time" is displayed and DeskRest is stopped</li>
 </ul>
 <p><a href="https://github.com/Marceeelll/DeskRest-releases/releases">View release preview on GitHub</a></p>
 ]]></description>
