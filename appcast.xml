@@ -3,30 +3,16 @@
     <channel>
         <title>DeskRest</title>
         <item>
-            <title>1.13.6</title>
-            <pubDate>Fri, 03 Oct 2025 14:59:56 +0200</pubDate>
-            <sparkle:version>100</sparkle:version>
-            <sparkle:shortVersionString>1.13.6</sparkle:shortVersionString>
+            <title>1.13.7</title>
+            <pubDate>Mon, 13 Oct 2025 06:46:03 +0200</pubDate>
+            <sparkle:version>102</sparkle:version>
+            <sparkle:shortVersionString>1.13.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.13.6/DeskRest.v1.13.6-100.dmg" length="8754793" type="application/octet-stream" sparkle:edSignature="yw+wTfQzX1FQMRU8v+3yDZaBlCttFP5uXxvkhFVJRvZoyWIzH86fMYEFEqbgEp4xUjFjCKcCXSa6jcg4OeuBAQ=="/>
+            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.13.7/DeskRest.v1.13.7-102.dmg" length="8780104" type="application/octet-stream" sparkle:edSignature="edciXfeuEe2DbeScwOWRryn1yO5Yf/Eb9ii6ccjD++wiucWWv7yHSqm834boLSmd7JOMDeQAe1wByiEjN2XrAQ=="/>
             <description><![CDATA[
-<h3>Features</h3>
-<ul>
-  <li>Quick break controls: Start short and long breaks directly from the menu bar</li>
-</ul>
 <h3>Improvements</h3>
 <ul>
-  <li>Enhanced video playback detection with fewer false positives in Google Chrome and other browsers</li>
-  <li>Improved menu bar navigation</li>
-  <li>Redesigned Smart Breaks section in Settings UI</li>
-  <li>Notification settings reorganized and moved to respective Break and Clock Out sections in Settings</li>
-</ul>
-<h3>Bugfixes</h3>
-<ul>
-  <li>Fixed flash reminder appearing when timer is paused</li>
-  <li>Fixed crash related to video detection</li>
-  <li>Fixed microphone detection for devices that serve as both input and output</li>
-  <li>Fixed menu bar visibility issue when only "Time" is displayed and DeskRest is stopped</li>
+  <li>Enhanced UI and UX of the Manage License screen</li>
 </ul>
 <p><a href="https://github.com/Marceeelll/DeskRest-releases/releases">View release preview on GitHub</a></p>
 ]]></description>
