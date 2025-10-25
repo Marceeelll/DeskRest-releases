@@ -3,16 +3,17 @@
     <channel>
         <title>DeskRest</title>
         <item>
-            <title>1.13.7</title>
-            <pubDate>Mon, 13 Oct 2025 06:46:03 +0200</pubDate>
-            <sparkle:version>102</sparkle:version>
-            <sparkle:shortVersionString>1.13.7</sparkle:shortVersionString>
+            <title>1.13.8</title>
+            <pubDate>Sat, 25 Oct 2025 18:42:28 +0200</pubDate>
+            <sparkle:version>103</sparkle:version>
+            <sparkle:shortVersionString>1.13.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.13.7/DeskRest.v1.13.7-102.dmg" length="8780104" type="application/octet-stream" sparkle:edSignature="edciXfeuEe2DbeScwOWRryn1yO5Yf/Eb9ii6ccjD++wiucWWv7yHSqm834boLSmd7JOMDeQAe1wByiEjN2XrAQ=="/>
+            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.13.8/DeskRest.v1.13.8-103.dmg" length="8826174" type="application/octet-stream" sparkle:edSignature="5IEg/dXsNF0en/JKvB0ah/kNSmzZrYJQlgFn5Peo9wdZEAUU3n0Ew6dh+qwlFSVPGPttd9A3nfJo9h4HGQiWAA=="/>
             <description><![CDATA[
 <h3>Improvements</h3>
 <ul>
-  <li>Enhanced UI and UX of the Manage License screen</li>
+  <li>Enhanced subscription screen functionality</li>
+  <li>General performance optimizations</li>
 </ul>
 <p><a href="https://github.com/Marceeelll/DeskRest-releases/releases">View release preview on GitHub</a></p>
 ]]></description>
