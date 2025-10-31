@@ -3,17 +3,21 @@
     <channel>
         <title>DeskRest</title>
         <item>
-            <title>1.13.8</title>
-            <pubDate>Sat, 25 Oct 2025 18:42:28 +0200</pubDate>
-            <sparkle:version>103</sparkle:version>
-            <sparkle:shortVersionString>1.13.8</sparkle:shortVersionString>
+            <title>1.13.9</title>
+            <pubDate>Thu, 30 Oct 2025 18:02:47 +0100</pubDate>
+            <sparkle:version>106</sparkle:version>
+            <sparkle:shortVersionString>1.13.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.13.8/DeskRest.v1.13.8-103.dmg" length="8826174" type="application/octet-stream" sparkle:edSignature="5IEg/dXsNF0en/JKvB0ah/kNSmzZrYJQlgFn5Peo9wdZEAUU3n0Ew6dh+qwlFSVPGPttd9A3nfJo9h4HGQiWAA=="/>
+            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.13.9/DeskRest.v1.13.9-106.dmg" length="9461183" type="application/octet-stream" sparkle:edSignature="tTxkGtcne6UYc/gm5eCT8YXxGTQdIlu6fApzVDILMKnHflplLSINCZ8now0ZOaIojIr4izt/IvHv7TXKn6vpDQ=="/>
             <description><![CDATA[
 <h3>Improvements</h3>
 <ul>
-  <li>Enhanced subscription screen functionality</li>
-  <li>General performance optimizations</li>
+  <li>Updated app icon for macOS 26 compatibility</li>
+</ul>
+<h3>Bugfix</h3>
+<ul>
+  <li>Fixed flash reminder animation issue on macOS 26</li>
+  <li>Resolved app icon sizing issue in Dock</li>
 </ul>
 <p><a href="https://github.com/Marceeelll/DeskRest-releases/releases">View release preview on GitHub</a></p>
 ]]></description>
