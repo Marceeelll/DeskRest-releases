@@ -3,21 +3,16 @@
     <channel>
         <title>DeskRest</title>
         <item>
-            <title>1.13.9</title>
-            <pubDate>Thu, 30 Oct 2025 18:02:47 +0100</pubDate>
-            <sparkle:version>106</sparkle:version>
-            <sparkle:shortVersionString>1.13.9</sparkle:shortVersionString>
+            <title>1.13.10</title>
+            <pubDate>Mon, 10 Nov 2025 20:18:09 +0100</pubDate>
+            <sparkle:version>108</sparkle:version>
+            <sparkle:shortVersionString>1.13.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.13.9/DeskRest.v1.13.9-106.dmg" length="9461183" type="application/octet-stream" sparkle:edSignature="tTxkGtcne6UYc/gm5eCT8YXxGTQdIlu6fApzVDILMKnHflplLSINCZ8now0ZOaIojIr4izt/IvHv7TXKn6vpDQ=="/>
+            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.13.10/DeskRest.v1.13.10-108.dmg" length="9490463" type="application/octet-stream" sparkle:edSignature="J1jMpClEKcIzTeBiMPMg1WsZ3h4GhN36hP7tUiyq+ItRw+WK1dMcLGuyIe9SD2VKZa2NNvCmKh8tkXSL4YD6BA=="/>
             <description><![CDATA[
-<h3>Improvements</h3>
-<ul>
-  <li>Updated app icon for macOS 26 compatibility</li>
-</ul>
 <h3>Bugfix</h3>
 <ul>
-  <li>Fixed flash reminder animation issue on macOS 26</li>
-  <li>Resolved app icon sizing issue in Dock</li>
+  <li>Fixed long break cycle to reset when manually triggered</li>
 </ul>
 <p><a href="https://github.com/Marceeelll/DeskRest-releases/releases">View release preview on GitHub</a></p>
 ]]></description>
