@@ -3,16 +3,33 @@
     <channel>
         <title>DeskRest</title>
         <item>
-            <title>1.13.10</title>
-            <pubDate>Mon, 10 Nov 2025 20:18:09 +0100</pubDate>
-            <sparkle:version>108</sparkle:version>
-            <sparkle:shortVersionString>1.13.10</sparkle:shortVersionString>
+            <title>1.14.0</title>
+            <pubDate>Sat, 22 Nov 2025 17:52:32 +0100</pubDate>
+            <sparkle:version>123</sparkle:version>
+            <sparkle:shortVersionString>1.14.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.13.10/DeskRest.v1.13.10-108.dmg" length="9490463" type="application/octet-stream" sparkle:edSignature="J1jMpClEKcIzTeBiMPMg1WsZ3h4GhN36hP7tUiyq+ItRw+WK1dMcLGuyIe9SD2VKZa2NNvCmKh8tkXSL4YD6BA=="/>
+            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.14.0/DeskRest.v1.14.0-123.dmg" length="9567693" type="application/octet-stream" sparkle:edSignature="Vloirl4TEx9uNJdibRx7qFu/USNwVfZoY2aHEAWBm0YqTOvM8iSJ4/NS17sAmQd/nZq4VCwTxi0XkUtTEZ1DCg=="/>
             <description><![CDATA[
-<h3>Bugfix</h3>
+<h3>Features</h3>
 <ul>
-  <li>Fixed long break cycle to reset when manually triggered</li>
+  <li>Pause logging after extended absence: Capture past breaks retroactively after longer periods of inactivity</li>
+  <li>Keyboard shortcut for +5 minutes</li>
+  <li>Background Overlay: Option for light custom background with adjustable overlay transparency</li>
+</ul>
+<h3>Improvements</h3>
+<ul>
+  <li>Enhanced dark mode</li>
+  <li>Smarter video detection: Stays in focus mode even when videos are briefly paused (e.g., for taking notes)</li>
+  <li>Simplified menu bar: Streamlined navigation with fewer submenus</li>
+  <li>Smoother animation: Notification close button now animates more fluidly</li>
+</ul>
+<h3>Bugfixes</h3>
+<ul>
+  <li>Fixed standby reset: More reliable reset after device standby</li>
+  <li>External displays: Break screen now works correctly when disconnecting monitors</li>
+  <li>Long break reset: Daily reset now functions reliably</li>
+  <li>Cursor reminder: Correctly disappears with manual time extension and no longer covered by dock</li>
+  <li>Break screen animation bug: Animation now runs smoothly without brief hang before skip button</li>
 </ul>
 <p><a href="https://github.com/Marceeelll/DeskRest-releases/releases">View release preview on GitHub</a></p>
 ]]></description>
