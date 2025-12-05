@@ -3,20 +3,22 @@
     <channel>
         <title>DeskRest</title>
         <item>
-            <title>1.14.1</title>
-            <pubDate>Tue, 25 Nov 2025 07:37:19 +0100</pubDate>
-            <sparkle:version>126</sparkle:version>
-            <sparkle:shortVersionString>1.14.1</sparkle:shortVersionString>
+            <title>1.15.0</title>
+            <pubDate>Fri, 05 Dec 2025 06:44:15 +0100</pubDate>
+            <sparkle:version>129</sparkle:version>
+            <sparkle:shortVersionString>1.15.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.14.1/DeskRest.v1.14.1-126.dmg" length="9567232" type="application/octet-stream" sparkle:edSignature="1x7MsXT0denU1Nryo+vZp9RXUBjGKIqyedi9xxvNDfj/lrWmDNIQVL4TH8DBwi9NyqUaxT2JjEEL0xzjw7C2BA=="/>
+            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.15.0/DeskRest.v1.15.0-129.dmg" length="9627764" type="application/octet-stream" sparkle:edSignature="3beKBIIhO9U8XWOY/R7jm6rk3qCYZEdIMUVf3p6h/huwI3FYeBmdhtHm5+zBfmIAGOTXMh/96OM/ezwsepwPBQ=="/>
             <description><![CDATA[
-<h3>Bugfix</h3>
+<h3>Features</h3>
 <ul>
-  <li>Fixed +5 keyboard shortcut functionality</li>
+  <li>Break Enforcement: New Break Management section with three modes to choose from - Flexible, Mindful, and Committed - allowing you to customize how strictly breaks are enforced</li>
 </ul>
 <h3>Improvements</h3>
 <ul>
-  <li>Enhanced break tracking after break detection notification</li>
+  <li>Replaced double-Esc functionality on break screen with Tab and Enter navigation for better accessibility</li>
+  <li>Enhanced dark mode readability for notification colors and assigned exercise cards</li>
+  <li>Added video detection support for Perplexity Comet browser</li>
 </ul>
 <p><a href="https://github.com/Marceeelll/DeskRest-releases/releases">View release preview on GitHub</a></p>
 ]]></description>
