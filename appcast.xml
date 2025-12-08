@@ -3,22 +3,24 @@
     <channel>
         <title>DeskRest</title>
         <item>
-            <title>1.15.0</title>
-            <pubDate>Fri, 05 Dec 2025 06:44:15 +0100</pubDate>
-            <sparkle:version>129</sparkle:version>
-            <sparkle:shortVersionString>1.15.0</sparkle:shortVersionString>
+            <title>1.15.1</title>
+            <pubDate>Sat, 06 Dec 2025 17:25:51 +0100</pubDate>
+            <sparkle:version>130</sparkle:version>
+            <sparkle:shortVersionString>1.15.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.15.0/DeskRest.v1.15.0-129.dmg" length="9627764" type="application/octet-stream" sparkle:edSignature="3beKBIIhO9U8XWOY/R7jm6rk3qCYZEdIMUVf3p6h/huwI3FYeBmdhtHm5+zBfmIAGOTXMh/96OM/ezwsepwPBQ=="/>
+            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.15.1/DeskRest.v1.15.1-130.dmg" length="9637282" type="application/octet-stream" sparkle:edSignature="FXV3rK0dtvGE3Q4TLPnnd49AiKmf7pMBAPWe4vqwFbok6iJlOsh7IH+KB3ulM/7NBG29KbgHrGC7eUYJUD/6CA=="/>
             <description><![CDATA[
-<h3>Features</h3>
-<ul>
-  <li>Break Enforcement: New Break Management section with three modes to choose from - Flexible, Mindful, and Committed - allowing you to customize how strictly breaks are enforced</li>
-</ul>
 <h3>Improvements</h3>
 <ul>
-  <li>Replaced double-Esc functionality on break screen with Tab and Enter navigation for better accessibility</li>
-  <li>Enhanced dark mode readability for notification colors and assigned exercise cards</li>
-  <li>Added video detection support for Perplexity Comet browser</li>
+  <li>Cursor countdown now automatically cancels when "Pause for" is selected</li>
+  <li>More lenient streak logic - streak now breaks only when less than 75% of breaks are taken (previously broke after a single skip)</li>
+  <li>Version number in "About DeskRest" is now copyable</li>
+  <li>Video detection can now be ignored via menu bar to continue Focus Mode</li>
+  <li>Break reminder notification no longer persists to the next day</li>
+</ul>
+<h3>Bugfix</h3>
+<ul>
+  <li>Fixed notification overlaying menu bar menu, which could make interactions difficult when notification is visible</li>
 </ul>
 <p><a href="https://github.com/Marceeelll/DeskRest-releases/releases">View release preview on GitHub</a></p>
 ]]></description>
