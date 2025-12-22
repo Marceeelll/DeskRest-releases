@@ -3,24 +3,17 @@
     <channel>
         <title>DeskRest</title>
         <item>
-            <title>1.15.1</title>
-            <pubDate>Sat, 06 Dec 2025 17:25:51 +0100</pubDate>
-            <sparkle:version>130</sparkle:version>
-            <sparkle:shortVersionString>1.15.1</sparkle:shortVersionString>
+            <title>1.16.0</title>
+            <pubDate>Tue, 16 Dec 2025 20:33:43 +0100</pubDate>
+            <sparkle:version>133</sparkle:version>
+            <sparkle:shortVersionString>1.16.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.15.1/DeskRest.v1.15.1-130.dmg" length="9637282" type="application/octet-stream" sparkle:edSignature="FXV3rK0dtvGE3Q4TLPnnd49AiKmf7pMBAPWe4vqwFbok6iJlOsh7IH+KB3ulM/7NBG29KbgHrGC7eUYJUD/6CA=="/>
+            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.16.0/DeskRest.v1.16.0-133.dmg" length="9627103" type="application/octet-stream" sparkle:edSignature="ca4Lwqjx3FjAphzaCfqAh0HVhJmX1oDc2CqzEFne0S8pykq9+j8Cg67Zg19MH6Y4DrsFaLsA0eJqYIXOt3gMCQ=="/>
             <description><![CDATA[
-<h3>Improvements</h3>
+<h3>Features</h3>
 <ul>
-  <li>Cursor countdown now automatically cancels when "Pause for" is selected</li>
-  <li>More lenient streak logic - streak now breaks only when less than 75% of breaks are taken (previously broke after a single skip)</li>
-  <li>Version number in "About DeskRest" is now copyable</li>
-  <li>Video detection can now be ignored via menu bar to continue Focus Mode</li>
-  <li>Break reminder notification no longer persists to the next day</li>
-</ul>
-<h3>Bugfix</h3>
-<ul>
-  <li>Fixed notification overlaying menu bar menu, which could make interactions difficult when notification is visible</li>
+  <li>Individual working hours can now be set for each day of the week</li>
+  <li>New keyboard shortcuts for pausing and starting DeskRest</li>
 </ul>
 <p><a href="https://github.com/Marceeelll/DeskRest-releases/releases">View release preview on GitHub</a></p>
 ]]></description>
