@@ -3,17 +3,16 @@
     <channel>
         <title>DeskRest</title>
         <item>
-            <title>1.16.0</title>
-            <pubDate>Tue, 16 Dec 2025 20:33:43 +0100</pubDate>
-            <sparkle:version>133</sparkle:version>
-            <sparkle:shortVersionString>1.16.0</sparkle:shortVersionString>
+            <title>1.16.2</title>
+            <pubDate>Sat, 03 Jan 2026 11:15:28 +0100</pubDate>
+            <sparkle:version>135</sparkle:version>
+            <sparkle:shortVersionString>1.16.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.16.0/DeskRest.v1.16.0-133.dmg" length="9627103" type="application/octet-stream" sparkle:edSignature="ca4Lwqjx3FjAphzaCfqAh0HVhJmX1oDc2CqzEFne0S8pykq9+j8Cg67Zg19MH6Y4DrsFaLsA0eJqYIXOt3gMCQ=="/>
+            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.16.2/DeskRest.v1.16.2-135.dmg" length="9658754" type="application/octet-stream" sparkle:edSignature="Q0wgJaqsPTFqWt2hTvmAlYmo527s7oSsAOEsf0xHyiqSRB1OU3BLxmd4Lr9lW/rJSXRlmrfyNcRgkBthn5pFCQ=="/>
             <description><![CDATA[
-<h3>Features</h3>
+<h3>Bugfix</h3>
 <ul>
-  <li>Individual working hours can now be set for each day of the week</li>
-  <li>New keyboard shortcuts for pausing and starting DeskRest</li>
+  <li>Fixed issue where DeskRest could unexpectedly take focus away from other applications</li>
 </ul>
 <p><a href="https://github.com/Marceeelll/DeskRest-releases/releases">View release preview on GitHub</a></p>
 ]]></description>
