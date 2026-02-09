@@ -3,16 +3,23 @@
     <channel>
         <title>DeskRest</title>
         <item>
-            <title>1.16.2</title>
-            <pubDate>Sat, 03 Jan 2026 11:15:28 +0100</pubDate>
-            <sparkle:version>135</sparkle:version>
-            <sparkle:shortVersionString>1.16.2</sparkle:shortVersionString>
+            <title>1.17.0</title>
+            <pubDate>Sat, 07 Feb 2026 10:04:11 +0100</pubDate>
+            <sparkle:version>139</sparkle:version>
+            <sparkle:shortVersionString>1.17.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.16.2/DeskRest.v1.16.2-135.dmg" length="9658754" type="application/octet-stream" sparkle:edSignature="Q0wgJaqsPTFqWt2hTvmAlYmo527s7oSsAOEsf0xHyiqSRB1OU3BLxmd4Lr9lW/rJSXRlmrfyNcRgkBthn5pFCQ=="/>
+            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.17.0/DeskRest.v1.17.0-139.dmg" length="9637381" type="application/octet-stream" sparkle:edSignature="vynyFXSH/DG3GrZnwTOXLU6obX/o1hyfshHgn9ACJ4KwdOLDSK+PMj2HAd/N4YJKDiRqgfIy9oN1sWTy7fFfCg=="/>
             <description><![CDATA[
-<h3>Bugfix</h3>
+<h3>Features</h3>
 <ul>
-  <li>Fixed issue where DeskRest could unexpectedly take focus away from other applications</li>
+  <li>Focus Mode Granularity: Focus Filters can now be configured for more precise control</li>
+</ul>
+<h3>Improvements</h3>
+<ul>
+  <li>New Siri shortcuts: Start and stop DeskRest</li>
+  <li>Enhanced license activation/deactivation user experience</li>
+  <li>Improved Working Hours configuration flow</li>
+  <li>Refined DeskRest start time</li>
 </ul>
 <p><a href="https://github.com/Marceeelll/DeskRest-releases/releases">View release preview on GitHub</a></p>
 ]]></description>
