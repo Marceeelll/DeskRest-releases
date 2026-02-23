@@ -3,23 +3,21 @@
     <channel>
         <title>DeskRest</title>
         <item>
-            <title>1.17.0</title>
-            <pubDate>Sat, 07 Feb 2026 10:04:11 +0100</pubDate>
-            <sparkle:version>139</sparkle:version>
-            <sparkle:shortVersionString>1.17.0</sparkle:shortVersionString>
+            <title>1.18.0</title>
+            <pubDate>Sat, 21 Feb 2026 14:47:05 +0100</pubDate>
+            <sparkle:version>142</sparkle:version>
+            <sparkle:shortVersionString>1.18.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.17.0/DeskRest.v1.17.0-139.dmg" length="9637381" type="application/octet-stream" sparkle:edSignature="vynyFXSH/DG3GrZnwTOXLU6obX/o1hyfshHgn9ACJ4KwdOLDSK+PMj2HAd/N4YJKDiRqgfIy9oN1sWTy7fFfCg=="/>
+            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.18.0/DeskRest.v1.18.0-142.dmg" length="9719727" type="application/octet-stream" sparkle:edSignature="gmJmnfaSWmwt/L4sxd0ylQs9ugpB57Ttm8KLB3UeqcfNI9f0bE5JInyo7JpRe3JUJVqtkFXGN7EE/7SwXi9GDA=="/>
             <description><![CDATA[
 <h3>Features</h3>
 <ul>
-  <li>Focus Mode Granularity: Focus Filters can now be configured for more precise control</li>
+  <li>Lock Screen: Configure screen locking during short or long breaks under Settings > Breaks > Lock Screen. Perfect for open-plan offices.</li>
 </ul>
 <h3>Improvements</h3>
 <ul>
-  <li>New Siri shortcuts: Start and stop DeskRest</li>
-  <li>Enhanced license activation/deactivation user experience</li>
-  <li>Improved Working Hours configuration flow</li>
-  <li>Refined DeskRest start time</li>
+  <li>Faster app launch after restart</li>
+  <li>Export logs from Settings for bug reports. Your data stays on your device — you decide if and when to share it.</li>
 </ul>
 <p><a href="https://github.com/Marceeelll/DeskRest-releases/releases">View release preview on GitHub</a></p>
 ]]></description>
