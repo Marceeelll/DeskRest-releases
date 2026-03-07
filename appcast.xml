@@ -3,21 +3,17 @@
     <channel>
         <title>DeskRest</title>
         <item>
-            <title>1.18.0</title>
-            <pubDate>Sat, 21 Feb 2026 14:47:05 +0100</pubDate>
-            <sparkle:version>142</sparkle:version>
-            <sparkle:shortVersionString>1.18.0</sparkle:shortVersionString>
+            <title>1.18.1</title>
+            <pubDate>Thu, 05 Mar 2026 17:27:49 +0100</pubDate>
+            <sparkle:version>146</sparkle:version>
+            <sparkle:shortVersionString>1.18.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.18.0/DeskRest.v1.18.0-142.dmg" length="9719727" type="application/octet-stream" sparkle:edSignature="gmJmnfaSWmwt/L4sxd0ylQs9ugpB57Ttm8KLB3UeqcfNI9f0bE5JInyo7JpRe3JUJVqtkFXGN7EE/7SwXi9GDA=="/>
+            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.18.1/DeskRest.v1.18.1-146.dmg" length="9705827" type="application/octet-stream" sparkle:edSignature="iPv7aUsBMZQieHt3aeORiqwsL33utQbZqff/clPrQKtUl3dmsvaiBdtGKGpZc3CsJjl3NJOQDwLSONn2mbFRAA=="/>
             <description><![CDATA[
-<h3>Features</h3>
+<h3>Bugfix</h3>
 <ul>
-  <li>Lock Screen: Configure screen locking during short or long breaks under Settings > Breaks > Lock Screen. Perfect for open-plan offices.</li>
-</ul>
-<h3>Improvements</h3>
-<ul>
-  <li>Faster app launch after restart</li>
-  <li>Export logs from Settings for bug reports. Your data stays on your device — you decide if and when to share it.</li>
+  <li>License information is now properly retained when proxy interceptor encounters 403 errors</li>
+  <li>Notifications are now correctly dismissed when the timer expires</li>
 </ul>
 <p><a href="https://github.com/Marceeelll/DeskRest-releases/releases">View release preview on GitHub</a></p>
 ]]></description>
