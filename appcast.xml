@@ -3,20 +3,29 @@
     <channel>
         <title>DeskRest</title>
         <item>
-            <title>1.18.1</title>
-            <pubDate>Thu, 05 Mar 2026 17:27:49 +0100</pubDate>
-            <sparkle:version>146</sparkle:version>
-            <sparkle:shortVersionString>1.18.1</sparkle:shortVersionString>
+            <title>1.18.2</title>
+            <pubDate>Wed, 11 Mar 2026 07:04:49 +0100</pubDate>
+            <sparkle:version>147</sparkle:version>
+            <sparkle:shortVersionString>1.18.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.18.1/DeskRest.v1.18.1-146.dmg" length="9705827" type="application/octet-stream" sparkle:edSignature="iPv7aUsBMZQieHt3aeORiqwsL33utQbZqff/clPrQKtUl3dmsvaiBdtGKGpZc3CsJjl3NJOQDwLSONn2mbFRAA=="/>
-            <description><![CDATA[
-<h3>Bugfix</h3>
+            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.18.2/DeskRest.v1.18.2-147.dmg" length="9704124" type="application/octet-stream" sparkle:edSignature="O98QF5X9/oUgd92kSFpTg28A1EkKidS3dVnpoScJodPdveXRcLsud3h2vAUvT6YymanrDuyN4qQ2D2w+JdteCA=="/>
+        </item>
+        <description><![CDATA[
+<h3>Bugfixes</h3>
 <ul>
-  <li>License information is now properly retained when proxy interceptor encounters 403 errors</li>
-  <li>Notifications are now correctly dismissed when the timer expires</li>
+  <li>Fixed notifications occasionally being cut off and not fully visible</li>
+  <li>Fixed fade-out animation on break screen only showing on one monitor when multiple displays are connected</li>
+  <li>Fixed notifications remaining visible after timer expiration</li>
+  <li>Fixed Working Hours stopping the break timer, requiring the user to tap Skip to exit the break screen</li>
+</ul>
+<h3>Improvements</h3>
+<ul>
+  <li>Improved app performance during notification animations</li>
+  <li>Improved cursor reminder to fix lag</li>
+  <li>Exercises are now reshuffled randomly each day to avoid repeating the same order</li>
+  <li>Improved database stability</li>
 </ul>
 <p><a href="https://github.com/Marceeelll/DeskRest-releases/releases">View release preview on GitHub</a></p>
 ]]></description>
-        </item>
     </channel>
 </rss>
