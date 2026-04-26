@@ -3,16 +3,25 @@
     <channel>
         <title>DeskRest</title>
         <item>
-            <title>1.18.3</title>
-            <pubDate>Sun, 15 Mar 2026 09:13:17 +0100</pubDate>
-            <sparkle:version>150</sparkle:version>
-            <sparkle:shortVersionString>1.18.3</sparkle:shortVersionString>
+            <title>1.19.0</title>
+            <pubDate>Thu, 23 Apr 2026 20:47:48 +0200</pubDate>
+            <sparkle:version>152</sparkle:version>
+            <sparkle:shortVersionString>1.19.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.18.3/DeskRest.v1.18.3-150.dmg" length="9703881" type="application/octet-stream" sparkle:edSignature="DGXb0NbkG4qhm/Uxf4TZZLYbr+ahlQrBy1R44KQKHufCaPc22Sr98m5mfoedJDH8GjFeoFMOscw3mt5O6QurAQ=="/>
+            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.19.0/DeskRest.v1.19.0-152.dmg" length="10346161" type="application/octet-stream" sparkle:edSignature="DdV8zErbM5/k2QFLSvDSI2kXTvsaTcI5clzHdihRuxHb9tOTOnaLlYzcs9TtYBChRPslZvyPCEOvtNNnbVHGCA=="/>
             <description><![CDATA[
+<h3>Features</h3>
+<ul>
+  <li>Video detection now supports app whitelisting</li>
+</ul>
 <h3>Improvements</h3>
 <ul>
-  <li>Optimized notification animation performance to eliminate lag</li>
+  <li>Improved empty state view in exercises settings</li>
+  <li>Added German localization for the Focus feature</li>
+</ul>
+<h3>Bugfixes</h3>
+<ul>
+  <li>Fixed a rare database crash that occurred for some users</li>
 </ul>
 <p><a href="https://github.com/Marceeelll/DeskRest-releases/releases">View release preview on GitHub</a></p>
 ]]></description>
