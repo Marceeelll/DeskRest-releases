@@ -3,17 +3,21 @@
     <channel>
         <title>DeskRest</title>
         <item>
-            <title>1.19.1</title>
-            <pubDate>Thu, 07 May 2026 06:52:32 +0200</pubDate>
-            <sparkle:version>153</sparkle:version>
-            <sparkle:shortVersionString>1.19.1</sparkle:shortVersionString>
+            <title>1.20.0</title>
+            <pubDate>Sun, 30 Aug 2026 11:49:41 +0200</pubDate>
+            <sparkle:version>154</sparkle:version>
+            <sparkle:shortVersionString>1.20.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.19.1/DeskRest.v1.19.1-153.dmg" length="10347598" type="application/octet-stream" sparkle:edSignature="mMt8XRg8h7iyRV43dyBFtZ6BubOQumioeFpQQV9MDf+7fMCMX1D1s1mZ60EhaBhQ7wb6tJA4nHlXc7vQeHmKCg=="/>
+            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.20.0/DeskRest.v1.20.0-154.dmg" length="10357388" type="application/octet-stream" sparkle:edSignature="vDtm3kehBTi7JM3CTj8IvGSquOn2gEIzRIU4zqW9pNsnT41tzEEXebu9PLldYXnI9k7HG/KVzIhGQ31koZBGCA=="/>
             <description><![CDATA[
+<h3>Features</h3>
+<ul>
+  <li>Icon-only menu bar mode now shows a small play icon while video playback is detected, so you can tell at a glance why breaks are paused, even with text hidden.</li>
+  <li>Smart Breaks: after being away for a while (sleep/idle), your break cycle now resets too. So you won't get hit with a long break right after returning, since being away already served as your rest.</li>
+</ul>
 <h3>Bugfixes</h3>
 <ul>
-  <li>Fixed fullscreen chart clipping the last data point/flame at the edges</li>
-  <li>Fixed incorrect exercise copy assigned to long breaks and wrong label on break-type card</li>
+  <li>Break windows now follow you when you switch virtual desktops (Spaces) during a break, instead of staying behind on the desktop where the break started.</li>
 </ul>
 ]]></description>
         </item>
