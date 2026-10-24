@@ -3,21 +3,21 @@
     <channel>
         <title>DeskRest</title>
         <item>
-            <title>1.20.0</title>
-            <pubDate>Sun, 30 Aug 2026 11:49:41 +0200</pubDate>
-            <sparkle:version>154</sparkle:version>
-            <sparkle:shortVersionString>1.20.0</sparkle:shortVersionString>
+            <title>1.21.0</title>
+            <pubDate>Mon, 19 Oct 2026 07:21:31 +0200</pubDate>
+            <sparkle:version>155</sparkle:version>
+            <sparkle:shortVersionString>1.21.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.20.0/DeskRest.v1.20.0-154.dmg" length="10357388" type="application/octet-stream" sparkle:edSignature="vDtm3kehBTi7JM3CTj8IvGSquOn2gEIzRIU4zqW9pNsnT41tzEEXebu9PLldYXnI9k7HG/KVzIhGQ31koZBGCA=="/>
+            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.21.0/DeskRest.v1.21.0-155.dmg" length="10058378" type="application/octet-stream" sparkle:edSignature="jka7s/hjtp+yZuJNzpCv73l8Bv4HSqIJpJYCywuojDI4EXXVBu7M1Ka6oxPjmSNm9b0gYEWloyFliOMg7Y1wBg=="/>
             <description><![CDATA[
 <h3>Features</h3>
 <ul>
-  <li>Icon-only menu bar mode now shows a small play icon while video playback is detected, so you can tell at a glance why breaks are paused, even with text hidden.</li>
-  <li>Smart Breaks: after being away for a while (sleep/idle), your break cycle now resets too. So you won't get hit with a long break right after returning, since being away already served as your rest.</li>
+  <li>Custom break sounds: choose a built-in sound, a system sound or upload your own for the start and end of a break, and preview it right in the Sound Effects settings.</li>
 </ul>
 <h3>Bugfixes</h3>
 <ul>
-  <li>Break windows now follow you when you switch virtual desktops (Spaces) during a break, instead of staying behind on the desktop where the break started.</li>
+  <li>Fixed DeskRest sometimes acting as if a Focus mode was still active after the Focus had already been turned off while the app wasn't running.</li>
+  <li>Fixed a memory leak that made DeskRest use more memory and CPU after every break the longer it ran.</li>
 </ul>
 ]]></description>
         </item>
