@@ -3,21 +3,20 @@
     <channel>
         <title>DeskRest</title>
         <item>
-            <title>1.21.0</title>
-            <pubDate>Mon, 19 Oct 2026 07:21:31 +0200</pubDate>
-            <sparkle:version>155</sparkle:version>
-            <sparkle:shortVersionString>1.21.0</sparkle:shortVersionString>
+            <title>1.22.0</title>
+            <pubDate>Sat, 14 Nov 2026 09:33:56 +0100</pubDate>
+            <sparkle:version>156</sparkle:version>
+            <sparkle:shortVersionString>1.22.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.21.0/DeskRest.v1.21.0-155.dmg" length="10058378" type="application/octet-stream" sparkle:edSignature="jka7s/hjtp+yZuJNzpCv73l8Bv4HSqIJpJYCywuojDI4EXXVBu7M1Ka6oxPjmSNm9b0gYEWloyFliOMg7Y1wBg=="/>
+            <enclosure url="https://github.com/Marceeelll/DeskRest-releases/releases/download/v1.22.0/DeskRest.v1.22.0-156.dmg" length="10244644" type="application/octet-stream" sparkle:edSignature="KJSuuyfidIgzSe3OqmtOx22XFXDcDSE34+un9/4gwdtjygBirXjf1X7J7FZ4ILXaz7+7JgPNrPHA2CJSkDFZBA=="/>
             <description><![CDATA[
 <h3>Features</h3>
 <ul>
-  <li>Custom break sounds: choose a built-in sound, a system sound or upload your own for the start and end of a break, and preview it right in the Sound Effects settings.</li>
+  <li>Break timer at the MacBook notch: see how many breaks you've taken today and a ring counting down to your next break right next to the notch. Hover it to start a break, delay it by 5 minutes or skip it, and swipe to see today's break stats. Turn it on under Settings > General > Menu Bar.</li>
 </ul>
 <h3>Bugfixes</h3>
 <ul>
-  <li>Fixed DeskRest sometimes acting as if a Focus mode was still active after the Focus had already been turned off while the app wasn't running.</li>
-  <li>Fixed a memory leak that made DeskRest use more memory and CPU after every break the longer it ran.</li>
+  <li>Fixed the menu bar showing the previous time for about a second after a break or after changing the interval.</li>
 </ul>
 ]]></description>
         </item>
